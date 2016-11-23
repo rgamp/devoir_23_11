@@ -117,7 +117,7 @@
     <ClInclude Include="cadre.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\individu_constructeur_copie\individu_constructeur_copie\individu_constructeur_copie\Questions.txt" />
+    <Text Include="Questions.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
