@@ -1,0 +1,22 @@
+1) Quel est le rôle d'un constructeur ? Quand est-il executé ?
+	
+	Le constructeur sert à construire l'objet, à initialiser les données membres et 
+	à leurs allouer de la mémoire. Il est executé lors de la crétion de la classe.
+
+2) Quel est le rôle d'un destructeur ? Quand est-il executé ? Quand est-il indispensable ?
+
+	Le destructeur sert à détruire l'objet et à vider la mémoire. Il est executé à la fin de la classe.
+
+3) Comment repere-t-on un constructeur d'une classe ? Peut-il y en avoir plusieurs ? Pourquoi ?
+
+	Le constructeur possède le même nom que la classe. Il peut y en avoir plusieurs, chacun pouvant prendre 
+	en compte différents paramètres.
+
+4) Qu'est ce que la surdéfinition de fonction ?
+
+	C'est quand on défini trop une fonction ?
+
+5) Quelle est la signification de public et private dans une classe ?
+
+	public et private représentent les statuts des données et fonctions membres, ainsi que leur possible 
+	utilisation à l'extérieur de la classe.
